@@ -1,4 +1,4 @@
-# Mini curso Rocketseat
+# Mini curso Rocketseat - 48h de rocketseat gratuita
 
 ## aula 01 - Intro Python e Flask
 Já tinha realizado esse primeiro contato, com NLW em Python
@@ -20,7 +20,7 @@ pip3 install -r
 <!-- pip3 install Flask==2.3.0 -->
 cria arquivo e instala os pacotes
 
-# BD 
+## BD 
 Object Relative Mapper - camada de abstração do BD 
 **SQLite(ORM)** - armazenado em um arquivo de texto. Não tem um servidor para armazenar.
 Possui limitações de registro e leitura. Não tem operarações paralelas na modificação do arquivo.
